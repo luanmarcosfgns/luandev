@@ -135,7 +135,7 @@ function falar() {
                 window.open('https://www.linkedin.com/in/luan-figueira-13b07a72/', '_blank');
             }
 
-            if (resultado.indexOf('baixar currículo') > -1) {
+            if (resultado.indexOf('abrir currículo') > -1) {
                 window.open('https://docs.google.com/document/d/1TcPzji2UxYDgiNulUu77oHVBdvqpZApAZoEoHlS-SLE/edit', '_blank');
             }
 
